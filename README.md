@@ -2,7 +2,7 @@
 <h3 align="center">Law And Business Student, Student Ambassador at WE hub, Design Lead at MSS MJCET</h3>
 
 
-- 🌱 I’m currently learning **Python, Sigma and Azure**
+- 🌱 I’m currently learning **Python, Figma and Azure**
 
 - 📫 How to reach me **172921853014@sulawcollege.edu.in**
 
