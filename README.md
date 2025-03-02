@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaima Nadeem</h1>
 <h3 align="center">Law And Business Student, Student Ambassador at WE hub, Design Lead at MSS MJCET</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1llyshai" alt="s1llyshai" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Sigma and Azure**
 
